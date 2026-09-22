@@ -1,0 +1,120 @@
+{
+  "format_version": 2,
+  "generated_at": "2026-09-22T10:49:31.609043+00:00",
+  "mode": "typical_weekday_index",
+  "current_period": "89f170ee702a0c81",
+  "period_count": 4,
+  "periods": [
+    {
+      "period_key": "53c32128b6face71",
+      "path": "53c32128b6face71",
+      "first_date": "2026-08-27",
+      "last_date": "2026-08-28",
+      "days_in_median": [
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "route_count": 133,
+      "trip_count": 14608,
+      "bins_total_before_threshold": 572109,
+      "bins_retained": 287024,
+      "segments_retained": 18499,
+      "timeslot_count": 96
+    },
+    {
+      "period_key": "f67e7128747733b2",
+      "path": "f67e7128747733b2",
+      "first_date": "2026-08-31",
+      "last_date": "2026-09-04",
+      "days_in_median": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "route_count": 135,
+      "trip_count": 14907,
+      "bins_total_before_threshold": 837130,
+      "bins_retained": 672019,
+      "segments_retained": 27138,
+      "timeslot_count": 96
+    },
+    {
+      "period_key": "2cdbd38d38fe0cd7",
+      "path": "2cdbd38d38fe0cd7",
+      "first_date": "2026-09-08",
+      "last_date": "2026-09-11",
+      "days_in_median": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "route_count": 136,
+      "trip_count": 14991,
+      "bins_total_before_threshold": 788481,
+      "bins_retained": 616190,
+      "segments_retained": 25426,
+      "timeslot_count": 96
+    },
+    {
+      "period_key": "89f170ee702a0c81",
+      "path": "89f170ee702a0c81",
+      "first_date": "2026-09-14",
+      "last_date": "2026-09-21",
+      "days_in_median": [
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21"
+      ],
+      "route_count": 137,
+      "trip_count": 16628,
+      "bins_total_before_threshold": 917826,
+      "bins_retained": 760726,
+      "segments_retained": 27672,
+      "timeslot_count": 96
+    }
+  ],
+  "days_excluded_from_median": [
+    {
+      "date": "2026-08-29",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-08-30",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-05",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-06",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-07",
+      "reason": "reduced_service"
+    },
+    {
+      "date": "2026-09-12",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-13",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-19",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-09-20",
+      "reason": "weekend"
+    }
+  ]
+}
